@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Mu Jia
+
+~~~
+{}{img_left}{photos/Mu Jia.jpg}{Mu Jia}{220}{220}
+Mu Jia \n
+Ph.D Student \n
+The Chinese University of Hong Kong, Shenzhen \n
+Computer and Information Engineering, School of Science and Engineering \n
+Shenzhen, China\n
+\n
+Email: mujia1@link.cuhk.edu.cn \n
+\[[https://scholar.google.com/citations?hl=en&user=MsMdepYAAAAJ Google Scholar]\] \n
+~~~
+
+== About Me
+I am now a PhD student in CUHK-Shenzhen, supervised by [http://chenjunting.org/ Prof. Junting Chen] and [https://sse.cuhk.edu.cn/en/faculty/pooiyuenkam Prof. Pooi-Yuen Kam]. I was a MSc in HIT-Shenzhen supervised by [https://faculty.hitsz.edu.cn/zhangtingting Prof. Tingting Zhang], and a BEng in UoG and UESTC supervised by [https://www.tudelft.nl/en/staff/f.fioranelli/ Prof. Francesco Fioranelli], [https://www.gla.ac.uk/schools/engineering/staff/julienlekernec/ Prof. Julien Le Kernec] and [https://www.auto.uestc.edu.cn/en/info/1032/1186.htm Prof. Jianguo Huang].
+
+== Education 
+- PhD, Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2023 – present.\n  
+-- Research Topic: Signal detection and estimation, Radio map, Statistical signal processing.
+- MSc, Electronic and Information Engineering, Harbin Institute of Technology (Shenzhen), 2020 – 2023.  \n 
+-- Research Topic: ISAC, Localization, Wireless sensor network, Resource allocation.
+- BEng (first-class honours), Electrical and Electronic Engineering, University of Glasgow, 2016 – 2020.  \n 
+-- Research Topic: Micro-Doppler features, Machine learning, Radar signal processing.
+- BEng (top 10%), Electrical and Electronic Engineering, University of Electronic Science and Technology of China, 2016 – 2020.
+== Research Interests 
+- Signal detection and estimation
+- Radio map construction and application
+- Integrated sensing and communications
+- Wireless sensor network
+- Resource allocation
+- Deep learning based radar signal processing

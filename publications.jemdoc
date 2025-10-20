@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+
+=== Journal Articles
+- M. Jia, J. Chen, Y.-C. Liang, and P. Y. Kam, "[https://arxiv.org/abs/2502.17897 Optimum noncoherent detection of constant-envelope signals using received signal magnitudes—energy detection and amplitude detection]," arXiv, 2025.
+- T. Liang, M. Jia, T. Zhang, J. Chen, L. Zhou, T. Q. S. Quek, and P.-Y. Kam, "[https://arxiv.org/abs/2510.09055 Sensing, detection and localization for low altitude UAV: A RF-based framework via multiple BSs collaboration]," arXiv, 2025.
+- M. Liu, M. Jia, and T. Zhang, "[https://onlinelibrary.wiley.com/doi/full/10.1155/2023/7533455 Scheduling in wireless cooperative localization networks with intelligent eavesdroppers]," Wireless Communications and Mobile Computing, 2024.
+- R. Zhang, J. Yang, M. Jia, and T. Zhang, "[https://www.mdpi.com/2076-3417/14/6/2665 Resource optimization using a step-by-step scheme in wireless sensing and localization networks]," Applied Sciences, vol. 14, no. 6, p. 2665, 2024.
+
+=== Conference Proceedings
+- M. Jia, J. Yang, and T. Zhang, "[https://ieeexplore.ieee.org/abstract/document/10013031 Power allocation in infrastructure limited integration sensing and localization wireless networks]," in VTC2022-Fall, 2022.
+- M. Jia, S. Li, J. Le Kernec, S. Yang, F. Fioranelli, and O. Romain, "[https://ieeexplore.ieee.org/abstract/document/9205461 Human activity classification with radar signal processing and machine learning]," in UCET, 2020, pp. 1–5.
+- Y. Zheng, M. Jia, and J. Chen, "[https://ieeexplore.ieee.org/abstract/document/10622621 Discovering CSI evolution using radio map for massive MIMO channel estimation]," in IEEE ICC, 2024.
+- Y. Zheng, H. Sun, B. Li, M. Jia, and J. Chen, "[https://ieeexplore.ieee.org/abstract/document/10693686 A radio map approach for antenna pattern calibration in low-altitude air-to-ground sensing]," in ICCC Workshops, 2024.
+- X. Wang, M. Jia, and T. Zhang, "[https://ieeexplore.ieee.org/abstract/document/10013061 Multipath ghosts mitigation for radar-based positioning systems networks]," in VTC2022-Fall, 2022.
+- B. Gao, M. Jia, T. Zhang, and Q. Zhang, "[https://ieeexplore.ieee.org/abstract/document/9685381 Reliable target positioning in complicated environments using multiple radar observations]," in GLOBECOM, 2021, pp. 1–6.
+- S. Li, M. Jia, J. Le Kernec, S. Yang, F. Fioranelli, and O. Romain, "[https://ieeexplore.ieee.org/abstract/document/9205464 Elderly care: Using deep learning for multi-domain activity classification]," in UCET, 2020, pp. 1–4.
+

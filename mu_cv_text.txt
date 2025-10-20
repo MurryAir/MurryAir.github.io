@@ -1,0 +1,130 @@
+Jia Mu
+# jiamu1@link.cuhk.edu.cn
+(cid:139) @murry70391382
+
+Education
+
+2023.9 – present
+
+] P.h.D, Computer and Information Engineering, The Chinese University of
+
+Hongkong (Shenzhen)
+Research topic: Signal detection and estimation, Radio Map, Statistical Signal Processing
+
+2020 – 2023.1
+
+] Master, Electronic and Information Engineering, Harbin Institute of Tech-
+
+nology (Shenzhen)
+Research topic: ISAC, Localization, Wireless Sensor Network, Resource allocation
+
+2016 – 2020
+
+] Bachelor, Electrical and Electronic Engineering, University of Glasgow (joint
+
+school with UESTC)
+GPA: 17.93/22 (ﬁrst-class honours)
+Research topic: Micro-Doppler features, Machine learning, Radar signal processing
+
+] Bachelor, Electrical and Electronic Engineering, University of Electronic Sci-
+
+ence and Technology of China (joint school with UoG)
+GPA: 3.53/4.0 (top 10%)
+
+Research Publications
+
+Journal Articles
+
+1
+
+2
+
+3
+
+4
+
+Jia, M., Chen, J., Liang, Y.-C., & Kam, P. Y. (2025). Optimum noncoherent detection of
+constant-envelope signals using received signal magnitudes — energy detection and amplitude
+detection. arXiv preprint arXiv:2502.17897.
+
+Liang, T., Jia, M., Zhang, T., Chen, J., Zhou, L., Quek, T. Q., & Kam, P.-Y. (2025). Sensing, detection and
+localization for low altitude uav: A rf-based framework via multiple bss collaboration. arXiv preprint
+arXiv:2510.09055.
+
+Liu, M., Jia, M., & Zhang, T. (2024). Scheduling in wireless cooperative localization networks with
+intelligent eavesdroppers. Wirel. Commun. Mob. Comput.
+
+Zhang, R., Yang, J., Jia, M., & Zhang, T. (2024). Resource optimization using a step-by-step scheme in
+wireless sensing and localization networks. Appl. Sci., 14(6).
+
+Conference Proceedings
+
+1
+
+2
+
+3
+
+Zheng, Y., Jia, M., & Chen, j. (2024). Discovering csi evolution using radio map for massive mimo
+channel estimation. In Ieee icc.
+
+Zheng, Y., Sun, H., Li, B., Jia, M., & Chen, J. (2024). A radio map approach for antenna pattern
+calibration in low-altitude air-to-ground sensing. In Iccc workshops.
+
+Jia, M., Yang, J., & Zhang, T. (2022). Power allocation in infrastructure limited integration sensing and
+localization wireless networks. In Vtc2022-fall.
+
+4 Wang, X., Jia, M., & Zhang, T. (2022). Multipath ghosts mitigation for radar-based positioning systems
+
+networks. In Vtc2022-fall.
+
+5
+
+Gao, B., Jia, M., Zhang, T., & Zhang, Q. (2021). Reliable target positioning in complicated environments
+using multiple radar observations. In Globecom (pp. 1–6).
+
+ 6
+
+7
+
+Jia, M., Li, S., Kernec, J. L., Yang, S., Fioranelli, F., & Romain, O. (2020). Human activity classiﬁcation
+with radar signal processing and machine learning. In Ucet (pp. 1–5).
+
+Li, S., Jia, M., Kernec, J. L., Yang, S., Fioranelli, F., & Romain, O. (2020). Elderly care: Using deep learning
+for multi-domain activity classiﬁcation. In Ucet (pp. 1–4).
+
+Awards and Achievements
+
+2016-2020
+
+] Outstanding Student Scholarship, Awarded by UESTC
+
+2020-2021
+
+] First Class Scholarship, Awarded by HITsz
+
+2023-2028
+
+] Category II Scholarship, Awarded by CUHKsz
+
+Teaching Experiences
+
+2023, 2024 fall
+
+] Teaching Assistant Digital Signal Processing, School of Science and Engineer-
+
+ing, CUHKsz.
+
+2024 spring
+
+] Teaching Assistant Signals and Systems, School of Science and Engineering,
+
+CUHKsz.
+
+2025 spring, 2025 fall
+
+] Teaching Assistant Digital Communication, School of Science and Engineering,
+
+CUHKsz.
+
+ 
