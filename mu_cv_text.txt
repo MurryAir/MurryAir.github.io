@@ -75,9 +75,8 @@ Publications
 Journal Articles and Submissions
 
 [1] M. Jia, J. Chen, Y.-C. Liang, and P.-Y. Kam, “Noncoherent detection of constant-envelope signals for mobile edge
-
-applications—asymptotically optimal detectors and a reliability-based intelligent detector,” accepted for publication in
-IEEE Trans. Mobile Comput., 2026, doi: 10.1109/TMC.2026.3730010.
+applications—asymptotically optimal detectors and a reliability-based intelligent detector,” IEEE Trans. Mobile
+Comput., pp. 1–18, 2026, doi: 10.1109/TMC.2026.3730010.
 
 [2] M. Jia, T. Liang, T. Zhang, J. Chen, L. Zhou, T. Q. S. Quek, and P.-Y. Kam, “UAV detection and localization: A
 
