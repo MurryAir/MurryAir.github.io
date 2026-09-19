@@ -372,6 +372,9 @@ table.imgtable, table.imgtable td {
 }
 
 /* Paper details in the News section. */
+.news-milestones { padding-top: 0.7em; }
+.news-milestones p { margin-bottom: 0.6em; line-height: 1.45; }
+.news-role { margin-bottom: 0.65em; font-size: 0.92em; }
 .news-item {
     display: grid;
     grid-template-columns: 280px minmax(0, 1fr);

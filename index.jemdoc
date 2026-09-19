@@ -4,9 +4,9 @@
 ~~~
 {}{img_left}{photos/Mu Jia.jpg}{Mu Jia}{220}{220}
 Mu Jia \n
-Ph.D Student \n
+Ph.D. Candidate \n
 The Chinese University of Hong Kong, Shenzhen \n
-Computer and Information Engineering, School of Science and Engineering \n
+Computer and Information Engineering, [https://sai.cuhk.edu.cn/en School of Artificial Intelligence] \n
 Shenzhen, China\n
 \n
 Email: mujia1@link.cuhk.edu.cn \n
@@ -14,12 +14,16 @@ Email: mujia1@link.cuhk.edu.cn \n
 ~~~
 
 == About Me
-I am now a PhD student in CUHK-Shenzhen, supervised by [http://chenjunting.org/ Prof. Junting Chen] and [https://sse.cuhk.edu.cn/en/faculty/pooiyuenkam Prof. Pooi-Yuen Kam]. I was a MSc in HIT-Shenzhen supervised by [https://faculty.hitsz.edu.cn/zhangtingting Prof. Tingting Zhang], and a BEng in UoG and UESTC supervised by [https://www.tudelft.nl/en/staff/f.fioranelli/ Prof. Francesco Fioranelli], [https://www.gla.ac.uk/schools/engineering/staff/julienlekernec/ Prof. Julien Le Kernec] and [https://www.auto.uestc.edu.cn/en/info/1032/1186.htm Prof. Jianguo Huang].
+I am a Ph.D. candidate in the [https://sai.cuhk.edu.cn/en School of Artificial Intelligence] at CUHK-Shenzhen, supervised by [http://chenjunting.org/ Prof. Junting Chen] and [https://sai.cuhk.edu.cn/en/teacher/159 Prof. Pooi-Yuen Kam]. I was a MSc in HIT-Shenzhen supervised by [https://faculty.hitsz.edu.cn/zhangtingting Prof. Tingting Zhang], and a BEng in UoG and UESTC supervised by [https://www.tudelft.nl/en/staff/f.fioranelli/ Prof. Francesco Fioranelli], [https://www.gla.ac.uk/schools/engineering/staff/julienlekernec/ Prof. Julien Le Kernec] and [https://www.auto.uestc.edu.cn/en/info/1032/1186.htm Prof. Jianguo Huang].
 
 == News
 ~~~
 {}{raw}
 <div class="news-list" id="news">
+  <div class="news-milestones">
+    <p><b>September 2026:</b> I transferred to the newly established <a href="https://sai.cuhk.edu.cn/en">School of Artificial Intelligence (SAI)</a> at CUHK-Shenzhen.</p>
+    <p><b>June 2026:</b> I passed my Ph.D. qualifying examination (QE).</p>
+  </div>
   <div class="news-item" id="news-tmc">
     <div class="news-figure">
       <a href="photos/news/tmc-detection-performance.png" target="_blank" rel="noopener" title="View the full-size figure">
@@ -48,6 +52,22 @@ I am now a PhD student in CUHK-Shenzhen, supervised by [http://chenjunting.org/ 
       <p class="news-authors"><b>Mu Jia</b>, <a href="https://haosunhs.github.io/index.html">Hao Sun</a>, <a href="http://chenjunting.org/">Junting Chen</a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/159">Pooi-Yuen Kam</a></p>
       <p class="news-summary">We reconstruct radio maps for pixel-based fluid antennas from sparse measurements by combining low-rank tensor structure with antenna physics. The method uses predictable gain differences across antenna modes to recover spatial detail and shadowing boundaries, supporting radio-map-based mode selection.</p>
       <p class="news-links"><a href="https://doi.org/10.1109/ICCWorkshops63917.2026.11586741">Paper</a> &middot; <a href="photos/news/icc-radio-map-model.png" target="_blank" rel="noopener">View figure</a></p>
+    </div>
+  </div>
+  <div class="news-item" id="news-tnse">
+    <div class="news-figure">
+      <a href="photos/news/tnse-uav-system.png" target="_blank" rel="noopener" title="View the full-size figure">
+        <img src="photos/news/tnse-uav-system.png" width="696" height="376" alt="Multiple base stations collaborate to detect a low-altitude UAV amid buildings and an interfering aerial object." loading="lazy" />
+      </a>
+      <p class="news-caption">Collaborative UAV detection with multiple base stations (Fig. 1).</p>
+    </div>
+    <div class="news-body">
+      <p class="news-meta">2026 &middot; IEEE Transactions on Network Science and Engineering, vol. 13</p>
+      <h3 class="news-title"><a href="https://doi.org/10.1109/TNSE.2025.3649043">UAV Detection and Localization: A RF-Based Framework via Multiple Stations Collaboration</a></h3>
+      <p class="news-authors"><a href="https://orcid.org/0000-0003-3628-364X">Tianhao Liang</a>, <b>Mu Jia</b>, <a href="https://homepage.hit.edu.cn/zhangtingting">Tingting Zhang</a>, <a href="http://chenjunting.org/">Junting Chen</a>, <a href="https://zhoulongyu.github.io/about/">Longyu Zhou</a>, <a href="https://www.sutd.edu.sg/profile/tony-quek">Tony Q. S. Quek</a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/159">Pooi-Yuen Kam</a></p>
+      <p class="news-role"><b>Co-first authors:</b> Tianhao Liang and Mu Jia (equal contribution).</p>
+      <p class="news-summary">We use existing cellular base stations to jointly detect and locate low-altitude UAVs. The framework combines micro-Doppler recognition with multi-station measurement fusion to suppress ghost targets, while reinforcement learning balances localization accuracy and the number of participating stations.</p>
+      <p class="news-links"><a href="https://doi.org/10.1109/TNSE.2025.3649043">Paper</a> &middot; <a href="photos/news/tnse-uav-system.png" target="_blank" rel="noopener">View figure</a></p>
     </div>
   </div>
 </div>
