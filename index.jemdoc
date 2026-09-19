@@ -39,6 +39,21 @@ I am a Ph.D. candidate in the [https://sai.cuhk.edu.cn/en School of Artificial I
       <p class="news-links"><a href="https://ieeexplore.ieee.org/document/11676079/">Paper</a> &middot; <a href="photos/news/tmc-detection-performance.png" target="_blank" rel="noopener">View figure</a></p>
     </div>
   </div>
+  <div class="news-item" id="news-spawc">
+    <div class="news-figure">
+      <a href="photos/news/spawc-federated-radio-map.png" target="_blank" rel="noopener" title="View the full-size figure">
+        <img src="photos/news/spawc-federated-radio-map.png" width="728" height="410" alt="Edge clients train radio-map models locally and add noise to their model updates before sending them to a central server." loading="lazy" />
+      </a>
+      <p class="news-caption">Federated radio-map learning with client-side privacy protection (Fig. 1).</p>
+    </div>
+    <div class="news-body">
+      <p class="news-meta">September 2026 &middot; IEEE SPAWC &middot; Athens, Greece</p>
+      <h3 class="news-title"><a href="https://arxiv.org/abs/2605.15560">Privacy-Preserving Federated Radio Map Learning for Wireless Digital Twins via Adaptive Noise Allocation</a></h3>
+      <p class="news-authors"><a href="https://scholar.google.com/citations?user=lcde_HAAAAAJ&amp;hl=en">Jijia Tian</a>, Hao Wang, <b>Mu Jia</b>, Yi Wang, <a href="http://chenjunting.org/">Junting Chen</a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/159">Pooi-Yuen Kam</a></p>
+      <p class="news-summary">Federated radio-map learning can leak transmitter locations through shared model updates, even when raw measurements stay local. We allocate a fixed noise budget adaptively across transmitter-sensitive model components to reduce location leakage while preserving radio-map reconstruction quality.</p>
+      <p class="news-links"><a href="https://arxiv.org/abs/2605.15560">Preprint</a> &middot; <a href="https://2026.ieeespawc.org/technical-program/">SPAWC program (Paper 241)</a> &middot; <a href="photos/news/spawc-federated-radio-map.png" target="_blank" rel="noopener">View figure</a></p>
+    </div>
+  </div>
   <div class="news-item" id="news-icc">
     <div class="news-figure">
       <a href="photos/news/icc-radio-map-model.png" target="_blank" rel="noopener" title="View the full-size figure">

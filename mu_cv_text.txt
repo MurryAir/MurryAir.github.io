@@ -109,10 +109,9 @@ networks,” in Proc. IEEE 96th Veh. Technol. Conf. (VTC2022-Fall), 2022, pp. 1�
 processing and machine learning,” in Proc. Int. Conf. UK-China Emerg. Technol. (UCET), 2020, pp. 1–5.
 
 [9] J. Tian, H. Wang, M. Jia, Y. Wang, J. Chen, and P.-Y. Kam, “Privacy-preserving federated radio map learning for
-
-wireless digital twins via adaptive noise allocation,” accepted for presentation at the 2026 IEEE 27th Int. Workshop on
-Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC), Athens, Greece, Sep. 6–9, 2026,
-Paper ID 241, arXiv:2605.15560.
+wireless digital twins via adaptive noise allocation,” in the 2026 IEEE 27th Workshop on Signal Processing and
+Artificial Intelligence for Wireless Communications (SPAWC), Athens, Greece, Sep. 2026, Paper ID 241. Preprint:
+arXiv:2605.15560.
 
 [10] H. Sun, M. Jia, X. Yu, and J. Chen, “Bayesian localization of a moving source via map-informed sensing using a
 
