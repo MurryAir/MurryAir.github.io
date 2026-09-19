@@ -17,8 +17,41 @@ Email: mujia1@link.cuhk.edu.cn \n
 I am now a PhD student in CUHK-Shenzhen, supervised by [http://chenjunting.org/ Prof. Junting Chen] and [https://sse.cuhk.edu.cn/en/faculty/pooiyuenkam Prof. Pooi-Yuen Kam]. I was a MSc in HIT-Shenzhen supervised by [https://faculty.hitsz.edu.cn/zhangtingting Prof. Tingting Zhang], and a BEng in UoG and UESTC supervised by [https://www.tudelft.nl/en/staff/f.fioranelli/ Prof. Francesco Fioranelli], [https://www.gla.ac.uk/schools/engineering/staff/julienlekernec/ Prof. Julien Le Kernec] and [https://www.auto.uestc.edu.cn/en/info/1032/1186.htm Prof. Jianguo Huang].
 
 == News
-- *2026:* Our paper on noncoherent detection of constant-envelope signals was accepted for publication in [https://doi.org/10.1109/TMC.2026.3730010 IEEE Transactions on Mobile Computing].
-- *2026:* Our paper on physics-aware tensor reconstruction for pixel-based fluid-antenna radio maps appeared at [https://doi.org/10.1109/ICCWorkshops63917.2026.11586741 IEEE ICC Workshops 2026].
+~~~
+{}{raw}
+<div class="news-list" id="news">
+  <div class="news-item" id="news-tmc">
+    <div class="news-figure">
+      <a href="photos/news/tmc-detection-performance.png" target="_blank" rel="noopener" title="View the full-size figure">
+        <img src="photos/news/tmc-detection-performance.png" width="696" height="546" alt="Total error probability versus SNR for ED, AD, RID and reference detectors, with 32 samples." loading="lazy" />
+      </a>
+      <p class="news-caption">Error vs. SNR (N = 32; Fig. 3).</p>
+    </div>
+    <div class="news-body">
+      <p class="news-meta">2026 &middot; Accepted by IEEE Transactions on Mobile Computing</p>
+      <h3 class="news-title"><a href="https://doi.org/10.1109/TMC.2026.3730010">Noncoherent Detection of Constant-Envelope Signals for Mobile Edge Applications &ndash; Asymptotically Optimal Detectors and a Reliability-Based Intelligent Detector</a></h3>
+      <p class="news-authors"><b>Mu Jia</b>, <a href="http://chenjunting.org/">Junting Chen</a>, <a href="https://www2.ae-info.org/ae/Member/Liang_Ying-Chang">Ying-Chang Liang</a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/159">Pooi-Yuen Kam</a></p>
+      <p class="news-summary">We study how small wireless devices can detect constant-envelope signals using only received magnitudes. The work derives energy and amplitude detectors for different SNR regimes and combines their decisions with an offline-calibrated reliability rule that needs no instantaneous SNR at runtime.</p>
+      <p class="news-links"><a href="https://doi.org/10.1109/TMC.2026.3730010">Paper</a> &middot; <a href="photos/news/tmc-detection-performance.png" target="_blank" rel="noopener">View figure</a></p>
+    </div>
+  </div>
+  <div class="news-item" id="news-icc">
+    <div class="news-figure">
+      <a href="photos/news/icc-radio-map-model.png" target="_blank" rel="noopener" title="View the full-size figure">
+        <img src="photos/news/icc-radio-map-model.png" width="770" height="413" alt="Pixel-based fluid antenna system showing antenna modes, propagation around obstacles and the corresponding radio-map tensor." loading="lazy" />
+      </a>
+      <p class="news-caption">Pixel-based FAS radio map model, from Fig. 1.</p>
+    </div>
+    <div class="news-body">
+      <p class="news-meta">2026 &middot; IEEE ICC Workshops</p>
+      <h3 class="news-title"><a href="https://doi.org/10.1109/ICCWorkshops63917.2026.11586741">Physics-Aware Tensor Reconstruction for Radio Maps in Pixel-Based Fluid Antenna Systems</a></h3>
+      <p class="news-authors"><b>Mu Jia</b>, <a href="https://haosunhs.github.io/index.html">Hao Sun</a>, <a href="http://chenjunting.org/">Junting Chen</a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/159">Pooi-Yuen Kam</a></p>
+      <p class="news-summary">We reconstruct radio maps for pixel-based fluid antennas from sparse measurements by combining low-rank tensor structure with antenna physics. The method uses predictable gain differences across antenna modes to recover spatial detail and shadowing boundaries, supporting radio-map-based mode selection.</p>
+      <p class="news-links"><a href="https://doi.org/10.1109/ICCWorkshops63917.2026.11586741">Paper</a> &middot; <a href="photos/news/icc-radio-map-model.png" target="_blank" rel="noopener">View figure</a></p>
+    </div>
+  </div>
+</div>
+~~~
 
 == Education 
 - PhD, Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2023 – present.\n  
