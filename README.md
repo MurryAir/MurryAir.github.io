@@ -1,13 +1,13 @@
 # Website
 个人网站（Jemdoc 生成）
 
-- 线上地址：`https://realmujia.github.io/`
-- 仓库：`https://github.com/realmujia/realmujia.github.io`
+- 线上地址：`https://murrymujia.github.io/`
+- 仓库：`https://github.com/murrymujia/murrymujia.github.io`
 
 ## 操作与发布记录
 - 安装 Git：通过 `winget` 安装 `Git for Windows 2.51.1`。
 - 初始化与提交：创建 `.nojekyll`、`.gitignore`，初始化仓库（默认分支 `main`），完成首次提交。
-- 关联远端并推送：远端 `origin` 指向 `realmujia/realmujia.github.io`，推送 `main` 分支成功。
+- 关联远端并推送：远端 `origin` 指向 `murrymujia/murrymujia.github.io`，推送 `main` 分支成功。
 - 线上可访问验证：主页与各子页面返回 `200 OK`，主页内容包含 “Mu Jia”。
 - 更新本地 Git 邮箱：将 `user.email` 更新为 `mujia1@link.cuhk.edu.cn`。
 - 头像裁剪与替换：使用 `tools/crop_photo.py` 生成 `280x280` 正方形头像，生成文件 `photos/Mu Jia.jpg`，在 `index.jemdoc` 引用为 `280x280` 后重新生成首页。
@@ -24,7 +24,7 @@
 - 初始化（仅首次）：
   - `git init -b main`
   - 创建 `.nojekyll`、`.gitignore`（建议包含 `__pycache__/` 等）
-  - `git remote add origin https://github.com/realmujia/realmujia.github.io.git`
+  - `git remote add origin https://github.com/murrymujia/murrymujia.github.io.git`
 - 推送：
   - `git add .`
   - `git commit -m "Update site content"`
