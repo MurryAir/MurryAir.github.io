@@ -10,6 +10,7 @@
 === Conference Proceedings
 - J. Tian, H. Wang, *M. Jia*, Y. Wang, J. Chen, and P.-Y. Kam, "[https://arxiv.org/abs/2605.15560 Privacy-preserving federated radio map learning for wireless digital twins via adaptive noise allocation]," in the 2026 IEEE 27th Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), Athens, Greece, September 2026, [https://2026.ieeespawc.org/technical-program/ Paper ID 241]. [https://arxiv.org/abs/2605.15560 Preprint: arXiv:2605.15560].
 - *M. Jia*, H. Sun, J. Chen, and P.-Y. Kam, "[https://doi.org/10.1109/ICCWorkshops63917.2026.11586741 Physics-aware tensor reconstruction for radio maps in pixel-based fluid antenna systems]," in IEEE ICC Workshops, 2026, pp. 1–6.
+- H. Sun, *M. Jia*, X. Yu, and J. Chen, "[https://www.vde-verlag.de/proceedings-en/566526043.html Bayesian localization of a moving source via map-informed sensing using a low-altitude UAV]," in European Wireless, 2025, pp. 252–257.
 - *M. Jia*, J. Yang, and T. Zhang, "[https://ieeexplore.ieee.org/abstract/document/10013031 Power allocation in infrastructure limited integration sensing and localization wireless networks]," in VTC2022-Fall, 2022.
 - *M. Jia*, S. Li, J. Le Kernec, S. Yang, F. Fioranelli, and O. Romain, "[https://ieeexplore.ieee.org/abstract/document/9205461 Human activity classification with radar signal processing and machine learning]," in UCET, 2020, pp. 1–5.
 - Y. Zheng, *M. Jia*, and J. Chen, "[https://ieeexplore.ieee.org/abstract/document/10622621 Discovering CSI evolution using radio map for massive MIMO channel estimation]," in IEEE ICC, 2024.
@@ -18,3 +19,5 @@
 - B. Gao, *M. Jia*, T. Zhang, and Q. Zhang, "[https://ieeexplore.ieee.org/abstract/document/9685381 Reliable target positioning in complicated environments using multiple radar observations]," in GLOBECOM, 2021, pp. 1–6.
 - S. Li, *M. Jia*, J. Le Kernec, S. Yang, F. Fioranelli, and O. Romain, "[https://ieeexplore.ieee.org/abstract/document/9205464 Elderly care: Using deep learning for multi-domain activity classification]," in UCET, 2020, pp. 1–4.
 
+=== Preprints
+- B. Li, H. Zhang, *M. Jia*, J. Chen, and N. Pappas, "[https://arxiv.org/abs/2512.01386 Joint CFO-channel estimation under strong inter-cell interference for low-altitude radio mapping]," arXiv preprint arXiv:2512.01386, 2025.
